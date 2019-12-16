@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918518519857",
+    "firebase_url": "https://newpost-753ec.firebaseio.com",
+    "project_id": "newpost-753ec",
+    "storage_bucket": "newpost-753ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918518519857:android:5a3c28d910c33c1a789d10",
+        "android_client_info": {
+          "package_name": "com.example.newpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918518519857-j6nmam0qjp4tstps5v3nom2cun8t1e2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mbBRzT0ZwkrwS1FNozZ_I9NH22GYpJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918518519857-j6nmam0qjp4tstps5v3nom2cun8t1e2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
